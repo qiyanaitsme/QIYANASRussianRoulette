@@ -1,0 +1,3 @@
+pip install aiogram==2.25.1
+pip install tortoise-orm==0.19.3
+pip install aiosqlite==0.17.0
